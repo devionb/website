@@ -1,0 +1,16 @@
+<span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> Hello There! Welcome to my website.<!-- hello message -->
+<span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> cd devion/<!-- cd command -->About_Me
+<span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> cat <!-- cat command -->devion_buchynsky.txt
+<span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> ls <!-- ls command --><br/><br/>
+<!--ls will display github, linked, instagram, and contact me page. The links will direct you to a seaparte page. -->
+My favorite code quote, "<span id="k">Whatever can go wrong, will go wrong.</span>". <!-- murphy's law quote -->
+
+Hey There! This is the portflio website in the skin of a terminal.<!-- comment --><p>You can see that, this is how your portfolio would look like.</p>
+<p>You can introduce yourself here.</p> <!-- comment -->
+<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- comment -->
+<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- comment -->
+<p> You can give links to other professional profiles you have on Internet, here: <br> <!--to the right could also just be a link to the page on github.com --><a href="github_link.html">GitHub</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- comment --><a href="Your email ID">Email</a>.
+
+<span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> exit <!-- exit command -->
