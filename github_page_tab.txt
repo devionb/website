@@ -1,0 +1,2 @@
+<span id="a">devion@buchynsky:GitHub</span>:<span id="b">~</span><span id="c">$</span> Welcome to my GitHub page.<!-- hello message -->
+<span id="a">devion@buchynsky:GitHub</span>:<span id="b">~</span><span id="c">$</span> If you would like to see any of my private repositories, please contact me. My private repositories are mainly my school projects<!-- comment --><br/><br/>
