@@ -2,7 +2,7 @@
 <span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> cd devion/<!-- cd command -->About_Me
 <span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> cat <!-- cat command -->devion_buchynsky.txt
 <span id="a">devion@buchynsky</span>:<span id="b">~</span><span id="c">$</span> ls <!-- ls command -->
-<a href="github_link.html">GitHub</a> <br> <a href="linkedin_link.html">LinkedIn</a> and <br> <a href="link3">Profile3</a><br/><br/>
+<a href="github_link.html">GitHub</a> <a href="linkedin_link.html">LinkedIn</a> and <br> <a href="link3">Profile3</a><br/><br/>
 <!--ls will display github, linked, instagram, and contact me page. The links will direct you to a seaparte page. -->
 My favorite code quote, "<span id="k">Whatever can go wrong, will go wrong.</span>". <!-- murphy's law quote -->
 
