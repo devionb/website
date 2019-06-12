@@ -1,4 +1,4 @@
-// index2.js is for the github page tab
+// index3.js is for the linkedin page tab
 var Typer = {
     text: null,
     accessCountimer: null,
