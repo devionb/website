@@ -109,6 +109,7 @@ fieldset {
     width: 100%;
     border: 1px solid #CCC;
     background: #000000;
+    color: #FFF;
     margin: 0 0 5px;
     padding: 10px;
 }
