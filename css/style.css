@@ -142,7 +142,7 @@ fieldset {
 }
 
 #contact button[type="submit"]:hover {
-    background: #00cc00;
+    background: #00b300;
     -webkit-transition: background 0.3s ease-in-out;
     -moz-transition: background 0.3s ease-in-out;
     transition: background-color 0.3s ease-in-out;
