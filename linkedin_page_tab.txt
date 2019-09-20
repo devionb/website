@@ -2,4 +2,6 @@
 <span id="a">devion@buchynsky:LinkedIn</span>:<span id="b">~</span><span id="c">$</span> If you would like to see my LinkedIn profile, please you the link below.<!-- comment -->
 <span id="a">devion@buchynsky:LinkedIn</span>:<span id="b">~</span><span id="c">$</span> ls <!-- ls command -->
 <a href="index.html">Home</a>  <a href="github_link.html">GitHub</a> and  <a href="contact_me_link.html">Contact_Me</a>
+<span id="a">devion@buchynsky:LinkedIn</span>:<span id="b">~</span><span id="c">$</span> ls <!-- ls command -->
+<a href="https://www.linkedin.com/in/devion-buchynsky/">GitHub Page</a>
 <span id="a">devion@buchynsky:LinkedIn</span>:<span id="b">~</span><span id="c">$</span> exit <!-- exit command --><br/><br/>
