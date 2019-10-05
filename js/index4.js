@@ -1,5 +1,5 @@
 // index4.js is for the contact me page tab
-alert("The form does not work as of now. Thanks for understanding. If you do want to contact me, please you the LinkedIn page.");
+alert("The form does not work as of now. Thanks for understanding. If you do want to contact me, please go to the LinkedIn page.");
 
 var Typer = {
     text: null,
