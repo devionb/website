@@ -46,7 +46,7 @@ body {
   font-size: 18px; 
   font-weight: 400;
   line-height: 1.4;
-  color: #FEF6EB;
+  color: #f4f2ff;
 }
 
 h1,
@@ -70,7 +70,7 @@ ul {
 
 a {
   text-decoration: none;
-  color: #FEF6EB;
+  color: #f4f2ff;
 }
 
 img {
@@ -87,10 +87,10 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background: #525564;
+  background: #2f3650;
   /*box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4); */
   z-index: 10;
-  border-bottom: 4px solid #C25B56;
+  border-bottom: 4px solid #dc3a3d;
 }
 
 .nav-list {
@@ -115,7 +115,7 @@ img {
 }
 
 .nav-list a:hover {
-  background: #C25B56;
+  background: #dc3a3d;
 }
 
 /* Welcome section */
@@ -127,7 +127,7 @@ img {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-color: #74828F;
+  background-color: #878c9b;
   
 }
 
@@ -135,7 +135,7 @@ img {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
-  color: #FEF6EB;
+  color: #f4f2ff;
 }
 
 /* Exp section */
@@ -143,14 +143,14 @@ img {
 .exp-section{
   text-align: center;
   padding: 10rem 2rem;
-  background-color: #525564;
+  background-color: #2f3650;
   
 }
 
 .exp-section-header{
   max-width: 640px;
   margin: 0 auto 6rem auto;
-  border-bottom: 0.2rem solid #FEF6EB; /*orane white */
+  border-bottom: 0.2rem solid #f4f2ff; /*orane white */
 }
 
 /* Progess bar */
@@ -166,7 +166,7 @@ img {
     position: relative;
     width: 70%;
     height: 30px;
-    background: #C25B56; /* fuzzy wuzzy brown */
+    background: #dc3a3d; /* fuzzy wuzzy brown */
     border-radius: 4px;
     margin: 10px auto;
     font-size: 25px; /*percentage */
@@ -197,13 +197,13 @@ img {
 .projects-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: #96C0CE;
+  background: #46ccd8;
 }
 
 .projects-section-header {
   max-width: 640px;
   margin: 0 auto 6rem auto;
-  border-bottom: 0.2rem solid #FEF6EB;
+  border-bottom: 0.2rem solid #f4f2ff;
 }
 
 @media (max-width: 28.75em) {
@@ -234,18 +234,18 @@ img {
 }
 
 .project {
-  background: #525564;
+  background: #2f3650;
   box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
   border-radius: 2px;
 }
 
 .code {
-  color: #FEF6EB;
+  color: #f4f2ff;
   transition: color 0.3s ease-out;
 }
 
 .project:hover .code {
-  color: #C25B56;
+  color: #dc3a3d;
 }
 
 .project-image {
@@ -272,7 +272,7 @@ img {
 }
 
 .btn-show-all:hover {
-  background: #C25B56;
+  background: #dc3a3d;
 }
 
 .btn-show-all:hover > i {
@@ -296,7 +296,7 @@ img {
   width: 100%;
   height: 80vh;
   padding: 0 2rem;
-  background: #74828F;
+  background: #878c9b;
 }
 
 .contact-section-header > h2 {
@@ -339,8 +339,8 @@ footer {
   display: flex;
   justify-content: space-evenly;
   padding: 2rem;
-  background: #525564;
-  border-top: 4px solid #C25B56;
+  background: #2f3650;
+  border-top: 4px solid #dc3a3d;
 }
 
 footer > p {
